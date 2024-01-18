@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://hir666.github.io/yasmin-portfolio/",
+  "homepage": "https://hir666.github.io/yasmin-portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
